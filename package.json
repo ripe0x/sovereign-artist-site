@@ -20,7 +20,7 @@
     "react": "19.2.8",
     "react-dom": "19.2.8",
     "viem": "2.55.19",
-    "wagmi": "2.19.5",
+    "wagmi": "3.7.7",
     "zero-deps-zorbs": "^0.1.0"
   },
   "devDependencies": {
